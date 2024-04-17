@@ -1,0 +1,22 @@
+{
+  "name": "bookmark-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "b": "tailwindcss -i ./style.css -o ./collins.css --watch"
+  },
+  "keywords": [
+    "Tailwindcss"
+  ],
+  "author": "BlarQ",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "browserslist": "^4.23.0",
+    "caniuse-lite": "^1.0.30001610"
+  }
+}
