@@ -780,6 +780,14 @@ video {
   margin-left: 0.75rem;
 }
 
+.mt-4{
+  margin-top: 1rem;
+}
+
+.mt-8{
+  margin-top: 2rem;
+}
+
 .box-border{
   box-sizing: border-box;
 }
@@ -2088,6 +2096,21 @@ video {
 .text-sm{
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.text-lg{
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-xl{
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text-2xl{
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .font-bold{
